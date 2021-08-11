@@ -44,6 +44,9 @@
     ]
   },
   "devDependencies": {
+    "@types/react": "^17.0.16",
+    "@types/react-modal": "^3.12.1",
+    "@types/styled-components": "^5.1.12",
     "json-server": "^0.16.3"
   }
 }
